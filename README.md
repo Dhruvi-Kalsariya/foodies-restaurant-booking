@@ -6,7 +6,7 @@ FOODIES is a modern restaurant booking web application that allows users to expl
 
 ## 📸 Screenshots
 
-![Project Preview](screenshots/all-in-one.jpeg)
+![Project Preview](screenshots/all in one.jpeg)
 
 ---
 
